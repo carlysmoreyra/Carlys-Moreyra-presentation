@@ -1,52 +1,58 @@
-# Hi there, I'm Carla! 👋
-
 <div align="center">
-  <h3>Product Architect | Full-Stack AI Developer | Data Specialist</h3>
+  <h1>Hi there, I'm Carla! 👋</h1>
+  <h3>Product & Information Architect | Cloud Engineer | Data Specialist</h3>
 </div>
 
-## 🚀 About Me (The Journey)
+## 🚀 About Me
 
-Empecé mi viaje en el mundo de los datos analizando tendencias sociales con R y Python. Cuatro años después, he evolucionado hacia la arquitectura de software y el desarrollo de productos digitales integrales. Hoy, mi pasión es diseñar soluciones SaaS escalables, orquestar modelos de Inteligencia Artificial (LLMs, NLP) y construir interfaces de usuario que enamoran (UI/UX). Mi objetivo es transformar ideas complejas en productos reales y hermosos.
+I don't just write code; I design ecosystems. My work bridges the gap between raw data governance, high-availability cloud infrastructure, and user-centric product design. 
+
+With a strong foundation in Archival Science and advanced Data Mining, I understand the deep structural logic of information before a single line of code is written. My tenure as an enterprise Cloud DBA (AWS, Azure, GCP) forged my ability to design resilient, scalable architectures that thrive under strict SLAs and high-pressure environments.
+
+Today, I orchestrate end-to-end digital products. Whether I am mapping a relational database, configuring a CI/CD pipeline, or crafting a glassmorphism UI, my focus remains constant: translating complex data architectures into seamless, high-impact digital realities.
 
 ---
 
-## 💻 Featured Case Studies (Products)
+## 💻 Ecosystems & Products (Case Studies)
 
-- 🌿 **[Druida Engine](https://github.com/carlysmoreyra/druida_engine)**: Plataforma SaaS No-Code para Game Masters. Motor visual de grafos interactivos (React Flow, Vite, Tailwind v4) con integraciones transmedia Físico-Digitales (Sistema Runa).
-- 🧠 **[DataExtract AI](https://github.com/carlysmoreyra/DataExtractor)**: SaaS Freemium. Extrae datos estructurados desde imágenes usando Google Gemini API, Angular 17+, Firebase (Auth/Firestore) y Stripe.
-- 🔮 **[Grimoire of Voices](https://github.com/carlysmoreyra/grimoire-of-voices)**: App Móvil (React Native/Expo) enfocada en la traducción y transliteración musical, integrando Groq Cloud (LPU), Whisper y LLaMA a través de una API en FastAPI.
-- 🎭 **[Emotion Detector](https://github.com/carlysmoreyra/emotiondetector)**: Microservicios con Docker que detectan emociones en español utilizando un modelo de HuggingFace (BETO), un backend en Flask y un frontend con diseño Glassmorphism.
-- ✈️ **[Idiomas Viajeros](https://github.com/carlysmoreyra/idiomas-viajeros)**: Plantilla de diseño web ágil y de alto rendimiento. Enfoque Mobile-First, semántica perfecta y UI/UX moderno utilizando Tailwind CSS.
-- 📊 **[RStudio Data Viz](https://github.com/carlysmoreyra/viz1)**: Análisis Exploratorio de Datos transaccionales renderizado como informes web interactivos y autocontenidos.
+- 🧠 **[DataExtract AI](https://github.com/carlysmoreyra/DataExtractor)**: **AI-Driven SaaS & Monetization.** Extracted structured tabular data from unstructured images using Google Gemini API. Built with Angular 17+, Firebase (Auth/Firestore), and Stripe Payment Links.
+- 🌿 **[Druida Engine](https://github.com/carlysmoreyra/druida_engine)**: **No-Code Engines & Transmedia.** A visual graph-based narrative engine for game masters (TTRPG). Built with React Flow, Vite, and Tailwind v4, bridging physical and digital worlds via the "Rune System".
+- 🛍️ **[El Druida de Papel](https://github.com/carlysmoreyra/pagina_web_eldruidadepapel)**: **E-commerce & Operations Automation.** Scaling a digital brand through data-driven workflows, customized logistics, and an optimized web storefront.
+- 🔮 **[Grimoire of Voices](https://github.com/carlysmoreyra/grimoire-of-voices)**: **Mobile AI Integration.** React Native (Expo) app for musical transliteration, connecting a low-power frontend to high-speed AI inference (Whisper/LLaMA on Groq Cloud via FastAPI).
+- 🔐 **[Inversión del Capitalismo de Vigilancia (Academic Paper)](#)**: **Cognitive Security & Research.** Exploring decentralized digital twins and Zero-Knowledge Proofs to protect users from structural vulnerabilities in urban social engineering vectors.
+- 🎭 **[Emotion Detector](https://github.com/carlysmoreyra/emotiondetector)**: **Containerized NLP.** Dockerized microservices architecture for Spanish sentiment analysis using a HuggingFace BETO model, Flask backend, and a modern frontend.
+- 📊 **[RStudio Data Viz](https://github.com/carlysmoreyra/viz1)**: **Data Storytelling.** Exploratory Data Analysis transformed into interactive, self-contained HTML reports for business intelligence.
 
 ---
 
 ## 🛠️ Tech Stack & Skills
 
-**Frontend & Mobile:**  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Backend, Cloud & DevOps:**  
+**Architecture & Data:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=FastAPI&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=Amazon%20DynamoDB&logoColor=white)
+![UML/C4](https://img.shields.io/badge/UML_%26_C4_Model-000000?style=flat-square&logo=uml&logoColor=white)
+
+**Cloud & DevOps:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 
-**AI, Data & Architecture:**  
+**Frontend & Mobile:**  
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) 
+![React](https://img.shields.io/badge/React_Flow-20232A?style=flat-square&logo=react&logoColor=61DAFB) 
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+**AI & Machine Learning:**  
 ![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlebard&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq_LPU-000000?style=flat-square)
 
 ---
 
-## 📫 Connect with me!
+## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carla-nazarena-moreyra)
 
